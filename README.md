@@ -2,4 +2,4 @@
 
 ## About Me
 
-- 🌱 Currently learning [![My Skills](https://skillicons.dev/icons?i=haxeflixel,haxe&theme=dark)](https://skillicons.dev).
+- 🌱 Currently learning: [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel&theme=dark)](https://skillicons.dev)
