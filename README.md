@@ -6,4 +6,4 @@
 
 ## My Skills
 
-  - Programming Languages: `Drawing`.
+  - `Drawing`.
