@@ -10,4 +10,4 @@
 
 ## My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuXDD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuXDD&layout=compact&theme=dark)
