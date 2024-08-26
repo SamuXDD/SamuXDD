@@ -3,9 +3,9 @@
 ## About Me
 
 - 🌱 Currently learning:
- [![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haxe,haxeflixel&theme=dark)](https://skillicons.dev)
 - 📝 Code Editor:
- [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev)
 
 ## My Skills
 
