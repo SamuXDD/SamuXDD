@@ -14,4 +14,4 @@
 
 ##
 
-![image alt](https://github.com/SamuXDD/SamuXDD/blob/7a6da0d48465baf62dc23240052282f99a0c14b7/image.png)
+![image alt]([https://github.com/SamuXDD/SamuXDD/blob/7a6da0d48465baf62dc23240052282f99a0c14b7/image.png](https://github.com/SamuXDD/SamuXDD/blob/917929e5675114646586ff84027054b3a0adbef1/image.png))
