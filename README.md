@@ -9,10 +9,6 @@
 
   - `Drawing`.
 
-## My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuXDD&layout=compact&theme=dark)
-
 ##
 
 ![image alt](https://github.com/SamuXDD/SamuXDD/blob/ccf094cbab13c58049ecea1790297d78db7b8d2d/image.png)
