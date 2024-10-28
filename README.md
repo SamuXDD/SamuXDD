@@ -7,7 +7,7 @@
 
 ## My Skills
 
-  - `Drawing`.
+  - `None`.
 
 ##
 
