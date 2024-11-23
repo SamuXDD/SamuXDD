@@ -10,5 +10,3 @@
   - `None`.
 
 ##
-
-![image alt](https://github.com/SamuXDD/SamuXDD/blob/ccf094cbab13c58049ecea1790297d78db7b8d2d/image.png)
